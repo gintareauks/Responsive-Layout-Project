@@ -245,8 +245,6 @@ hr {
 
 
 
-
-
 /* --- Tablet Display --- */
 
 @media (min-width: 768px) {
@@ -384,7 +382,6 @@ hr {
 
 
 
-
 /* --- Desktop Display --- */
 
 @media (min-width: 1024px) {
@@ -444,15 +441,15 @@ header ul {
 
     /* main section */
 
-    #portfolio {
+#portfolio {
     background-color: white;
     margin-right: auto; 
     margin-left:  auto; 
     max-width: 95%; 
     padding-top: 2px;
-    }
+}
 
-    .portfolio-1 {
+.portfolio-1 {
     max-width: 32%;
     float: left;
     position: relative;
