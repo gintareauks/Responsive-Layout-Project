@@ -394,6 +394,10 @@ main {
     background-color: #fafafa;
 }
 
+[class^="portfolio-"] {
+    min-height: 425px;
+  }
+
 /* Header section */
 
 header {
